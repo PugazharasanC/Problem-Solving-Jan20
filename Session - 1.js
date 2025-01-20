@@ -89,13 +89,13 @@ function isVowel(char) {
 //     char == "U"
 //   );
 }
-// // todo Post-Session Practice Questions:
-// // todo Calculate the difference between two integers.
-// // todo Check if a number is even or odd.
-// // todo Calculate the perimeter of a rectangle.
-// // todo Find the largest of four numbers.
-// // todo Calculate the average of three numbers.
-// // todo Count the number of vowels in a string.
-// // todo Determine if a character is uppercase.
-// // todo Print the reverse of a string.
-// // todo Find the square of a number.
+// todo Post-Session Practice Questions:
+// todo Calculate the difference between two integers.
+// todo Check if a number is even or odd.
+// todo Calculate the perimeter of a rectangle.
+// todo Find the largest of four numbers.
+// todo Calculate the average of three numbers.
+// todo Count the number of vowels in a string.
+// todo Determine if a character is uppercase.
+// todo Print the reverse of a string.
+// todo Find the square of a number.

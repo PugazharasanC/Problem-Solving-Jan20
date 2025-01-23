@@ -1,4 +1,5 @@
-const { hollowSquare } = require("./Session - 2");
+// const { hollowSquare } = require("./Session - 2");
+const { allSubStrings } = require("./Session - 3")
 // Getting input via STDIN
 const readline = require("readline");
 
@@ -15,8 +16,8 @@ inp.on("line", (data) => {
 inp.on("close", () => {
   //start-here
   //Your code goes here … replace the below line with your code logic
-  const n = +userInput[0];
-  console.log(hollowSquare(n));
+  const str = userInput[0];
+  console.log(allSubStrings(str));
 
   //end-here
 });

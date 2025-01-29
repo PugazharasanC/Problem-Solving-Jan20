@@ -1,7 +1,7 @@
 // const { hollowSquare } = require("./Session - 2");
 // const { allSubStrings } = require("./Session - 3")
-const { sort } = require("./Session - 4");
-const { searchInRotatedSortedArray } = require("./Session - 5");
+// const { sort } = require("./Session - 4");
+// const { searchInRotatedSortedArray } = require("./Session - 5");
 // Getting input via STDIN
 const readline = require("readline");
 
